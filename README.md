@@ -1,6 +1,3 @@
-Voici la **version professionnelle en français**, optimisée pour un README GitHub technique, claire et adaptée aux recruteurs Data / BI :
-
----
 
 # 📊 Modèle de Données Power BI — Documentation de Préparation & Transformation
 
